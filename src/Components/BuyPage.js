@@ -43,9 +43,9 @@ const BuyPage = ({addInCart}) => {
 
     return (
         <Container fluid>
-            <h1 className="text-success text-center" style={{fontSize: "80px"}}>
+            <h1 className="text-success text-center" style={{fontSize: "80px"}}><u>
                 Buy your Digital Buddy
-            </h1>
+            </u></h1>
             <Row>
                 {product.map(product => (
                     <Col md={4} key={product.id}>
