@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14c954806f530963ad1fda878636c1c4",
+    "revision": "39613a42fca5d1dec007335fc946a29b",
     "url": "/Shop-Laptop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shop-Laptop/static/css/2.6417943d.chunk.css"
   },
   {
-    "revision": "884c8843ba0d3e8acaee",
+    "revision": "91ffa69b4a8a799468a4",
     "url": "/Shop-Laptop/static/css/main.493b7840.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shop-Laptop/static/js/2.6571f6b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "884c8843ba0d3e8acaee",
-    "url": "/Shop-Laptop/static/js/main.20121b6f.chunk.js"
+    "revision": "91ffa69b4a8a799468a4",
+    "url": "/Shop-Laptop/static/js/main.3b8e2750.chunk.js"
   },
   {
     "revision": "bb71ef43f07a3235c6c7",
